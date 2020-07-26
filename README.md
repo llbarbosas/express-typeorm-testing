@@ -1,7 +1,17 @@
-# Awesome Project Build with TypeORM
+<p align="center">
+<img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="typeorm logo" />
+</p>
 
-Steps to run this project:
+<h2 align="center">TypeORM with tests! :sunglasses::heavy_check_mark:</h2>
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+<p align="center">
+<a href="#"><img src="https://github.com/llbarbosas/express-typeorm-testing/workflows/Build/badge.svg"></a>
+</p>
+
+# About
+
+#### TODO
+
+- [x] Setup environment
+- [x] Create database fake connections (for testing)
+- [ ] Make controller unit tests pass
