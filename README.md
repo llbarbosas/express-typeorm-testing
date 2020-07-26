@@ -13,5 +13,5 @@
 #### TODO
 
 - [x] Setup environment
-- [x] Create database fake connections (for testing)
+- [ ] Create database fake connections (for testing)
 - [ ] Make controller unit tests pass
