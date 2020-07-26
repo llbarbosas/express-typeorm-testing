@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="typeorm logo" />
+<img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="typeorm logo" width="300" />
 </p>
 
 <h2 align="center">TypeORM with tests! :sunglasses::heavy_check_mark:</h2>
